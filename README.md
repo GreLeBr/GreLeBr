@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grégoire</h1>
 <h3 align="center">A graph-enamoured data analyst</h3>
 
-- 🔭 I’m currently working on **finding a job**
+- 🔭 I’m currently working on **analyzing deaths in 2020 in France**
 
 
 <h3 align="left">Languages and Tools:</h3>
