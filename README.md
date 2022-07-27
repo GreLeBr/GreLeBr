@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grégoire</h1>
-<h3 align="center">A graph-enamoured data analyst</h3>
 
-- 🔭 I’m currently working on **An app to master SQL**
+
+- 🔭 I’m currently working on **improving my knowledge in Mlops**
 - :see_no_evil: Working my hands at **mini-projects**
-- :egg: I am improving on **SQL** and **digital analytics tools**
+- :egg: I am improving on **Data engineering**
 - 📫 Reach me at **gregoire.le.bras@gmail.com** 
 
 
